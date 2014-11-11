@@ -19,3 +19,4 @@ now_get_point = 59880
 short_point = target_point - now_get_point - to_get_point
 print "目標値まで", short_point, "ポイント不足しています\n"
 #わふ〜
+#＾＾＾＾＾＾＾＾＾＾
